@@ -1,0 +1,26 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "trainig sait for learning JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorSan1986/Food-shop.git"
+  },
+  "keywords": [
+    "food",
+    "shop"
+  ],
+  "author": "Ihor Maniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorSan1986/Food-shop/issues"
+  },
+  "homepage": "https://github.com/IgorSan1986/Food-shop#readme",
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  }
+}
